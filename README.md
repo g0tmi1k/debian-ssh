@@ -16,6 +16,13 @@ Recommend Tool: **[Crowbar][13]** (able to brute force SSH keys)
 
 Testing Method: [ssh-vulnkey][14] & **[dowkd.pl][15]**
 
+CVE (CVE-2008-0166):
+
++ [http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-0166][16]
++ [https://security-tracker.debian.org/tracker/CVE-2008-0166][17]
++ [https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-0166][18]
++ [https://www.cvedetails.com/cve/CVE-2008-0166][19]
+
 - - -
 
 ### Information
@@ -126,3 +133,7 @@ Copyright © 2008 H D Moore
    [13]: https://github.com/galkan/crowbar
    [14]: https://wiki.debian.org/SSLkeys#Testing_keys_using_ssh-vulnkey
    [15]: https://wiki.debian.org/SSLkeys#Testing_keys_using_dowkd.pl
+   [16]: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-0166
+   [17]: https://security-tracker.debian.org/tracker/CVE-2008-0166
+   [18]: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-0166
+   [19]: https://www.cvedetails.com/cve/CVE-2008-0166
