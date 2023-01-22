@@ -9,7 +9,8 @@ Original URL: [http://metasploit.com/users/hdm/tools/debian-openssl/][1] (**[Mir
 Exploit:
 
 + [https://www.exploit-db.com/exploits/5622/ (Perl)][3]
-+ [https://www.exploit-db.com/exploits/5720/ (Python)][4]
++ [https://www.exploit-db.com/exploits/5720/ (Python2)][4]
++ [https://github.com/snowdroppe/ssh-keybrute (Python3)][20]
 + [https://www.exploit-db.com/exploits/5632/ (Ruby)][12]
 
 Recommend Tool: **[Crowbar][13]** (able to brute force SSH keys)
@@ -137,3 +138,4 @@ Copyright © 2008 H D Moore
    [17]: https://security-tracker.debian.org/tracker/CVE-2008-0166
    [18]: https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2008-0166
    [19]: https://www.cvedetails.com/cve/CVE-2008-0166
+   [20]: https://github.com/snowdroppe/ssh-keybrute
